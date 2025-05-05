@@ -86,7 +86,7 @@ On boot, the bot plays the **Star Wars Cantina Band** tune using the buzzer.
 
 **Kabya Ghosh**  
 *Robotics & Embedded Systems Enthusiast*  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: [https://github.com/yourusername](https://github.com/TechByKabya)
 
 ---
 
